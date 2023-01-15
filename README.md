@@ -1,9 +1,9 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=bvr0n&show_icons=true&theme=dark" width="320">
+<img align='right' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/?username=bvr0n&show_icons=true&theme=dark" width="320">
 
 ## Whoami : 
 > Hi! I'm Taha, a CyberSecurity enthusiast, Love trying new things and learning. Enjoy!
-   
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=bvr0n" width="320">
+   <br/>
+<img align='right' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bvr0n" width="320">
 
 </div>
 
