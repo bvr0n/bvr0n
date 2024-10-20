@@ -1,10 +1,8 @@
-<img align='right' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/?username=bvr0n&show_icons=true&theme=dark" width="320">
-
 ## Whoami : 
 > I'm Taha, a CyberSecurity enthusiast. I am currently pursuing my masters degree in Computer Science. Love trying new things and learning. Enjoy!
    <br/>
-<img align='right' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bvr0n" width="320">
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bvr0n&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="320">
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </div>
 
 ## Where to find me :
@@ -21,7 +19,7 @@
   </a>&nbsp;&nbsp;
 </p>
 
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
 
 ## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
 
@@ -57,3 +55,7 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
   <img src="https://img.shields.io/badge/MacOS--9cf?style=for-the-badge&logo=Apple&logoColor=white">
 </span>
+
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
